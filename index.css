@@ -41,27 +41,27 @@ button:hover {
     color: #ffffff;
 }
 
-#customers {
+#movieTable {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
 }
 
-#customers td,
-#customers th {
+#movieTable td,
+#movieTable th {
     border: 1px solid #ddd;
     padding: 8px;
 }
 
-#customers tr:nth-child(even) {
+#movieTable tr:nth-child(even) {
     background-color: #f2f2f2;
 }
 
-#customers tr:hover {
+#movieTable tr:hover {
     background-color: #ddd;
 }
 
-#customers th {
+#movieTable th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
