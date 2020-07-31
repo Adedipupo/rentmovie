@@ -13,9 +13,5 @@ body {
     font: outline;
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
-}
-
-:checked {
-    margin-left: 25px;
-    border: 1px solid blue;
+    margin-top: 10%;
 }
