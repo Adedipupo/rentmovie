@@ -234,5 +234,5 @@ const movie_list = [
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1_SX300.jpg",
     Response: "True"
-  },
+  }
 ];
