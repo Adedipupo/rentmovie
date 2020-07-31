@@ -203,19 +203,7 @@ const movie_list = [
     Awards: "1 nomination.",
     Poster:
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyMzI2OTA3OF5BMl5BanBnXkFtZTgwNDg5NjQ0OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-    Metascore: "N/A",
-    imdbRating: "N/A",
-    imdbVotes: "N/A",
-    imdbID: "tt3748528",
-    Type: "movie",
     Response: "True",
-    Images: [
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3MzA4Nzk3NV5BMl5BanBnXkFtZTgwNjAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BNDMxMTQzMjQxM15BMl5BanBnXkFtZTgwNzAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNjkxOTk5NV5BMl5BanBnXkFtZTgwODAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BNjM4MzExNDAyNl5BMl5BanBnXkFtZTgwOTAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3NTgxMDcyNV5BMl5BanBnXkFtZTgwMDExMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
-    ],
   },
   {
     ComingSoon: true,
@@ -226,12 +214,6 @@ const movie_list = [
     Runtime: "N/A",
     Genre: "Action, Adventure, Fantasy",
     Director: "Justin Kurzel",
-    Writer:
-      "Bill Collage (screenplay), Adam Cooper (screenplay), Michael Lesslie (screenplay)",
-    Actors:
-      "Michael Fassbender, Michael Kenneth Williams, Marion Cotillard, Jeremy Irons",
-    Plot:
-      "When Callum Lynch explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.",
     Language: "English",
     Country: "UK, France, USA, Hong Kong",
     Awards: "N/A",
