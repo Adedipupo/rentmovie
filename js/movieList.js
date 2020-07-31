@@ -237,4 +237,4 @@ const movie_list = [
   },
 ];
 
-console.log(movie_list([1]));
+console.log(movie_list);
