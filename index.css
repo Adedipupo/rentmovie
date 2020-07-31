@@ -55,8 +55,6 @@ button:hover {
 }
 
 #movieTable th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    background-color: rgb(196, 111, 0);
+    background-color: rgb(94, 57, 8);
     color: white;
 }
