@@ -11,7 +11,7 @@ const movie_list = [
     Country: "USA, UK",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "I Am Legend",
@@ -25,7 +25,7 @@ const movie_list = [
     Country: "USA",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "300",
@@ -39,7 +39,7 @@ const movie_list = [
     Country: "USA",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMjAzNTkzNjcxNl5BMl5BanBnXkFtZTYwNDA4NjE3._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "The Avengers",
@@ -53,7 +53,7 @@ const movie_list = [
     Country: "USA",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "The Wolf of Wall Street",
@@ -67,7 +67,7 @@ const movie_list = [
     Country: "USA",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "Interstellar",
@@ -81,7 +81,7 @@ const movie_list = [
     Country: "USA, UK",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "Game of Thrones",
@@ -95,7 +95,7 @@ const movie_list = [
     Country: "USA, UK",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMjM5OTQ1MTY5Nl5BMl5BanBnXkFtZTgwMjM3NzMxODE@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "Vikings",
@@ -109,7 +109,7 @@ const movie_list = [
     Country: "Ireland, Canada",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BOTEzNzI3MDc0N15BMl5BanBnXkFtZTgwMzk1MzA5NzE@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "Gotham",
@@ -123,7 +123,7 @@ const movie_list = [
     Country: "USA",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMTY2MjMwNDE4OV5BMl5BanBnXkFtZTgwNjI1NjU0OTE@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "Power",
@@ -138,7 +138,7 @@ const movie_list = [
     Awards: "1 win & 6 nominations.",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BOTA4NTkzMjUzOF5BMl5BanBnXkFtZTgwNzg5ODkxOTE@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "Narcos",
@@ -150,10 +150,9 @@ const movie_list = [
     Director: "N/A",
     Language: "English, Spanish",
     Country: "USA",
-    Awards: "Nominated for 2 Golden Globes. Another 4 nominations.",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMTU0ODQ4NDg2OF5BMl5BanBnXkFtZTgwNzczNTE4OTE@._V1_SX300.jpg",
-    Response: "True",
+    Response: "True"
   },
   {
     Title: "Breaking Bad",
@@ -163,29 +162,12 @@ const movie_list = [
     Runtime: "49 min",
     Genre: "Crime, Drama, Thriller",
     Director: "N/A",
-    Writer: "Vince Gilligan",
-    Actors: "Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris",
-    Plot:
-      "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's financial future.",
     Language: "English, Spanish",
     Country: "USA",
     Awards: "Won 2 Golden Globes. Another 132 wins & 218 nominations.",
     Poster:
       "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1_SX300.jpg",
-    Metascore: "N/A",
-    imdbRating: "9.5",
-    imdbVotes: "889,883",
-    imdbID: "tt0903747",
-    Type: "series",
-    totalSeasons: "5",
-    Response: "True",
-    Images: [
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMzI5NDc5Nl5BMl5BanBnXkFtZTgwMjM0MTI2MDE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NDkwNDk5NV5BMl5BanBnXkFtZTgwNDM0MTI2MDE@._V1_SY1000_CR0,0,1495,1000_AL_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NDcyNDMzMF5BMl5BanBnXkFtZTgwOTI0MTI2MDE@._V1_SY1000_CR0,0,1495,1000_AL_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAzMTczMjM3NjFeQTJeQWpwZ15BbWU4MDc1MTI1MzAx._V1_SY1000_CR0,0,1495,1000_AL_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5MTE3MTgwMF5BMl5BanBnXkFtZTgwOTQxMjUzMDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-    ],
+    Response: "True"
   },
   {
     ComingSoon: true,
