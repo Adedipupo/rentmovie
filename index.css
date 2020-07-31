@@ -52,8 +52,10 @@ button:hover {
 
 #movieTable td,
 #movieTable th {
-    border: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
     padding: 8px;
+    background-color: #ffffff;
+    color: rgb(255, 153, 0);
 }
 
 #movieTable th {
