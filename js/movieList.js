@@ -236,5 +236,3 @@ const movie_list = [
     Response: "True"
   },
 ];
-
-console.log(movie_list);
