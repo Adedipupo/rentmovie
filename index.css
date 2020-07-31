@@ -42,9 +42,10 @@ button:hover {
 }
 
 #movieTable {
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     border-collapse: collapse;
-    width: auto;
+    width: 90%;
+    margin: auto;
     color: #ffffff;
     overflow: auto;
 }
