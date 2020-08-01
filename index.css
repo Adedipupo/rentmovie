@@ -42,11 +42,22 @@ button:hover {
     color: #ffffff;
 }
 
-#movieTable {
-    font-family: 'Courier New', Courier, monospace;
+th,
+td,
+p,
+input {
+    font: 14px Verdana;
+}
+
+table,
+th,
+td {
+    border: solid 1px #DDD;
     border-collapse: collapse;
-    width: 90%;
-    margin: auto;
-    color: #ffffff;
-    overflow: auto;
+    padding: 2px 3px;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
 }
