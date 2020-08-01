@@ -11,12 +11,10 @@ body {
     text-align: center;
 }
 
-.movie {
-    color: #ffffff;
-    font: outline;
+.header {
+    color: hsl(0, 0%, 100%);
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
-    margin-top: 10%;
 }
 
 
@@ -40,24 +38,4 @@ button {
 button:hover {
     background-color: rgb(224, 88, 10);
     color: #ffffff;
-}
-
-th,
-td,
-p,
-input {
-    font: 14px Verdana;
-}
-
-table,
-th,
-td {
-    border: solid 1px #DDD;
-    border-collapse: collapse;
-    padding: 2px 3px;
-    text-align: center;
-}
-
-th {
-    font-weight: bold;
 }
