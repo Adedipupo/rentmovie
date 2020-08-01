@@ -10,6 +10,7 @@ const movie_list = [
     Director: "James Cameron",
   },
   {
+    movieId: 2,
     Title: "I Am Legend",
     Year: "2007",
     Rated: "PG-13",
@@ -19,6 +20,7 @@ const movie_list = [
     Director: "Francis Lawrence",
   },
   {
+    movieId: 3,
     Title: "300",
     Year: "2006",
     Rated: "R",
@@ -28,6 +30,7 @@ const movie_list = [
     Director: "Zack Snyder",
   },
   {
+    movieId: 4,
     Title: "The Avengers",
     Year: "2012",
     Rated: "PG-13",
@@ -37,6 +40,7 @@ const movie_list = [
     Director: "Joss Whedon"
   },
   {
+    movieId: 5,
     Title: "The Wolf of Wall Street",
     Year: "2013",
     Rated: "R",
@@ -46,6 +50,7 @@ const movie_list = [
     Director: "Martin Scorsese"
   },
   {
+    movieId: 6,
     Title: "Interstellar",
     Year: "2014",
     Rated: "PG-13",
@@ -55,6 +60,7 @@ const movie_list = [
     Director: "Christopher Nolan"
   },
   {
+    movieId: 7,
     Title: "Game of Thrones",
     Year: "2011–",
     Rated: "TV-MA",
@@ -64,84 +70,13 @@ const movie_list = [
     Director: "N/A"
   },
   {
+    movieId: 8,
     Title: "Vikings",
     Year: "2013–",
     Rated: "TV-14",
     Released: "03 Mar 2013",
     Runtime: "44 min",
     Genre: "Action, Drama, History",
-    Director: "N/A"
-  },
-  {
-    Title: "Gotham",
-    Year: "2014–",
-    Rated: "TV-14",
-    Released: "01 Aug 2014",
-    Runtime: "42 min",
-    Genre: "Action, Crime, Drama",
-    Director: "N/A"
-  },
-  {
-    Title: "Power",
-    Year: "2014–",
-    Rated: "TV-MA",
-    Released: "N/A",
-    Runtime: "50 min",
-    Genre: "Crime, Drama",
-    Director: "N/A"
-  },
-  {
-    Title: "Narcos",
-    Year: "2015–",
-    Rated: "TV-MA",
-    Released: "28 Aug 2015",
-    Runtime: "49 min",
-    Genre: "Biography, Crime, Drama",
-    Director: "N/A"
-  },
-  {
-    Title: "Breaking Bad",
-    Year: "2008–2013",
-    Rated: "TV-14",
-    Released: "20 Jan 2008",
-    Runtime: "49 min",
-    Genre: "Crime, Drama, Thriller",
-    Director: "N/A"
-  },
-  {
-    Title: "Doctor Strange",
-    Year: "2016",
-    Rated: "N/A",
-    Released: "04 Nov 2016",
-    Runtime: "N/A",
-    Genre: "Action, Adventure, Fantasy",
-    Director: "Scott Derrickson"
-  },
-  {
-    Title: "Rogue One: A Star Wars Story",
-    Year: "2016",
-    Rated: "N/A",
-    Released: "16 Dec 2016",
-    Runtime: "N/A",
-    Genre: "Action, Adventure, Sci-Fi",
-    Director: "Gareth Edwards"
-  },
-  {
-    Title: "Assassin's Creed",
-    Year: "2016",
-    Rated: "N/A",
-    Released: "21 Dec 2016",
-    Runtime: "N/A",
-    Genre: "Action, Adventure, Fantasy",
-    Director: "Justin Kurzel"
-  },
-  {
-    Title: "Luke Cage",
-    Year: "2016–",
-    Rated: "TV-MA",
-    Released: "30 Sep 2016",
-    Runtime: "55 min",
-    Genre: "Action, Crime, Drama",
     Director: "N/A"
   }
 ];
