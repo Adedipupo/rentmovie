@@ -3,7 +3,7 @@ class movieClass{
         this.movies = movie_list
     }
 
-    getMovieList(){
+    getAllMovies(){
         return this.movie_list;
     }
 }
