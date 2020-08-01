@@ -50,23 +50,3 @@ button:hover {
     color: #ffffff;
     overflow: auto;
 }
-
-#movieTable td,
-#movieTable th {
-    border-bottom: 1px solid #ddd;
-    padding: 8px;
-    background-color: #9c3737;
-    color: rgb(255, 153, 0);
-}
-
-#movieTable th {
-    background-color: rgb(94, 57, 8);
-    color: white;
-}
-
-img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 100px;
-}
