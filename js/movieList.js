@@ -1,4 +1,3 @@
-//I added id
 const movie_list = [
   {
     "id": 1,
