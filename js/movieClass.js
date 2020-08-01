@@ -1,5 +1,5 @@
 class movieClass{
-    constructor(movies){
-        this.movies = movie_array
+    constructor(){
+        this.movies = movie_list
     }
 }
