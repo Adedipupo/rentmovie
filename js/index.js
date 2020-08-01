@@ -9,12 +9,12 @@ const renderMovies = (movies) => {
     movies.forEach((movie) => {
         const cardInnerElements =
             `
-                <img class='card__image' src='${movie.Poster[0]}/>
+                <img class='card__image' src='${movie.Images[0]}/>
                 <h3 class='card__title'>Title: ${movie.Title}</h3>
                 <div class='card__meta'>
                     <p>Year: ${movie.Year} </p>
-                    <p>Rated: ${movie.Rated} </p>
-                    <button onclick='rentMovie(${movie.id})' class='rentBtn'>rent</button>
+                    <p>Rated: ${movie.Director} </p>
+                    <button onclick='rentMovie(${movie.id})' class='rentBtn'>Rent</button>
                 </div>  
             `;
 

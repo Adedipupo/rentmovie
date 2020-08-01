@@ -381,7 +381,7 @@ const movie_list = [
     "Language": "English",
     "Country": "USA",
     "Awards": "N/A",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1_SX300.jpg",
+    "Poster": "https://am22.mediaite.com/tms/cnt/uploads/2019/02/orville-endgame-promo-art.jpg",
     "Metascore": "N/A",
     "imdbRating": "N/A",
     "imdbVotes": "N/A",
