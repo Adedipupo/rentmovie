@@ -4,6 +4,6 @@ class movieClass{
     }
 
     getAllMovies(){
-        return this.movie_list;
+        return this.movies;
     }
 }
