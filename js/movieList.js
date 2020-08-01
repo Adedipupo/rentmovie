@@ -1,5 +1,7 @@
+//I added id
 const movie_list = [
   {
+    "id": 1,
     "Title": "The Avengers",
     "Year": "2012",
     "Rated": "PG-13",
@@ -29,6 +31,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 2,
     "Title": "The Wolf of Wall Street",
     "Year": "2013",
     "Rated": "R",
@@ -58,6 +61,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 3,
     "Title": "Interstellar",
     "Year": "2014",
     "Rated": "PG-13",
@@ -87,6 +91,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 4,
     "Title": "Game of Thrones",
     "Year": "2011–",
     "Rated": "TV-MA",
@@ -117,6 +122,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 5,
     "Title": "Vikings",
     "Year": "2013–",
     "Rated": "TV-14",
@@ -147,6 +153,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 6,
     "Title": "Gotham",
     "Year": "2014–",
     "Rated": "TV-14",
@@ -177,6 +184,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 7,
     "Title": "Power",
     "Year": "2014–",
     "Rated": "TV-MA",
@@ -207,6 +215,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 8,
     "Title": "Narcos",
     "Year": "2015–",
     "Rated": "TV-MA",
@@ -237,6 +246,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 9,
     "Title": "Breaking Bad",
     "Year": "2008–2013",
     "Rated": "TV-14",
@@ -267,6 +277,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 10,
     "ComingSoon": true,
     "Title": "Doctor Strange",
     "Year": "2016",
@@ -295,6 +306,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 11,
     "ComingSoon": true,
     "Title": "Rogue One: A Star Wars Story",
     "Year": "2016",
@@ -325,6 +337,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 12,
     "ComingSoon": true,
     "Title": "Assassin's Creed",
     "Year": "2016",
@@ -354,6 +367,7 @@ const movie_list = [
     ]
   },
   {
+    "id": 13,
     "ComingSoon": true,
     "Title": "Luke Cage",
     "Year": "2016–",
@@ -384,4 +398,4 @@ const movie_list = [
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjg5ODYwNF5BMl5BanBnXkFtZTgwMTE1NDU4OTE@._V1_SY1000_CR0,0,1477,1000_AL_.jpg"
     ]
   }
-]
+];
