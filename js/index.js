@@ -4,7 +4,7 @@ const $root = document.getElementById('root')
 const renderMovies = (movies) => {
     if (!movies) return;
 
-    $root.innerHTML = ''; // clearing all the elements in the root
+    $root.innerHTML = '';
 
     movies.forEach((movie) => {
         const cardInnerElements =
@@ -13,7 +13,8 @@ const renderMovies = (movies) => {
                 <h3 class='card__title'>Title: ${movie.Title}</h3>
                 <div class='card__meta'>
                     <p>Year: ${movie.Year} </p>
-                    <p>Rated: ${movie.Director} </p>
+                    <p>Genre: ${movie.Genre}</p>
+                    <p>Director: ${movie.Director} </p>
                     <button onclick='rentMovie(${movie.id})' class='rentBtn'>Rent</button>
                 </div>  
             `;

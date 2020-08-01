@@ -42,19 +42,18 @@ button:hover {
     color: #ffffff;
 }
 
-#root{
+#root {
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,400px));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 400px));
     justify-content: center;
     gap: 10px;
     max-width: 1500px;
     margin: 30px auto;
 }
 
-.card{
-    background-color: rgb(158, 117, 79);
+.card {
+    background-color: rgb(165, 120, 61);
     color: #ffffff;
-    margin: 20px;
     border-radius: 5px;
     border: 1px rgb(107, 107, 107) solid;
     box-shadow: 5px 8px 8px 5px rgba(0, 0, 0, 0.363);
@@ -62,17 +61,17 @@ button:hover {
     transition: .2s linear;
 }
 
-.card:hover{
+.card:hover {
     box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.178);
     transform: translateY(2px);
 
 }
 
-.card__image{
+.card__image {
     width: 100%;
     max-height: 200px;
 }
 
-.card__meta{
+.card__meta {
     padding: 15px;
 }
